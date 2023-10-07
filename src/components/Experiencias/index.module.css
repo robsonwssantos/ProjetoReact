@@ -1,0 +1,10 @@
+.experiencias {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+.aux {
+    display: flex;
+    justify-content: space-between;
+}

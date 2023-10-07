@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.socialMedia {
+  display: flex;
+  gap: 12px;
+  margin-top: 24px;
+ }
+
+.externalLink {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  width: fit-content;
+  margin-bottom: 25px;
+}
+
+
+
+
+
